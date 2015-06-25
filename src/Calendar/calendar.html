@@ -1,0 +1,197 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+
+    <script src="layout-master/demos/js/jquery.js"></script>
+    <script src="layout-master/demos/js/jquery-ui.js"></script>
+    <link href="layout-master/source/stable/layout-default.css" rel="stylesheet" />
+    <script src="layout-master/source/stable/jquery.layout.min.js"></script>
+
+    <link href="jquery-ui-1.11.4.custom/jquery-ui.css" rel="stylesheet" />
+
+    <script src="fullcalendar-2.3.1/lib/moment.min.js"></script>
+    <!--<script src="fullcalendar-2.3.1/lib/jquery.min.js"></script>-->
+    <!--<script src="fullcalendar-2.3.1/lib/jquery-ui.custom.min.js"></script>-->
+    <link href="fullcalendar-2.3.1/fullcalendar.css" rel="stylesheet" />
+    <script src="fullcalendar-2.3.1/fullcalendar.js"></script>
+    <link href="fullcalendar-2.3.1/fullcalendar.print.css" rel="stylesheet" media='print' />
+
+    <script src="tonytomov-jqGrid-6659334/js/jquery.jqGrid.js"></script>
+    <script src="tonytomov-jqGrid-6659334/js/i18n/grid.locale-cn.js"></script>
+    <link href="tonytomov-jqGrid-6659334/css/ui.jqgrid.css" rel="stylesheet" />
+
+   
+    <!--数据-->
+    <script src="JS/js.js"></script>
+    <script src="JS/myToolFun.js"></script>
+    <script src="../../LimitedSchedule/Shared/JavaScript/public.js" type="text/javascript"></script>
+    <script>
+        //定义全局变量
+        var ShowFlag = "abnormal";//左则jqgrid展示内容标志
+        var DayCount = 0, StartDate = "";//格式 “2015-12-12”
+        var ResourceData = [];//, currenGridData = gridDataAll = [], gridDataAbnormal = [];//资源数据，所有资源数据，异常资源数据
+        var currentResourceID;
+        var dialog, dialogResult;
+
+        LimitedSchedule.helper.checkUserInfo();
+        $(document).ready(function () {
+            getdata();
+            setDefaultValue();
+
+            setLayout();
+            setJqGrid();
+            setFullCalender();          
+            
+        });
+
+        var adjustQtyChange = function (value) {
+            if (value.value&&!$.isNumeric(value.value)) {
+
+                alert("只允许输入数字");
+                $("#adjustQty").focus();
+
+            }
+            else {
+
+                if (value.value != 0) {
+
+                    $("#rest").removeAttr("checked");
+                    $("#normal").prop("checked", "checked");
+                }
+            }
+
+        };
+
+        var restChange = function (obj) {
+            if (obj.checked == true) {
+                $("#adjustQty").val("0");
+                $("#normal").removeAttr("checked");                
+            }        
+            
+        };
+
+        var normalChange = function (obj) {
+            if (obj.checked == true) {
+                //$("#adjustQty").val("0");
+                $("#rest").removeAttr("checked");
+            }
+        };
+
+   
+
+
+
+
+
+
+    </script>
+    <style>
+        .ui-layout-north div {
+            float: left;
+            width: 94px;
+            height: 50px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-left: 30px;
+            margin-right: 10px;
+            cursor: pointer;
+        }
+
+        .ui-layout-north p {
+            margin: 0;
+        }
+
+        body {
+            /*margin: 40px 10px;
+            padding: 0;
+            font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+            font-size: 14px;*/
+        }
+
+        #calendar {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .self-repairing {
+            background: url('images/no.png') no-repeat;
+            background-position: center;
+            background-repeat: no-repeat;
+            /*background-size:10% 120%;*/
+        }
+
+        .self-full {
+            background: url('images/pink.png');
+            background-repeat: repeat-x;
+            background-position: 0 10px; /*共107px， 0=full  10.7=完成90%*/
+        }
+
+        .self-usage {
+            background: url('images/pink.png');
+            background-repeat: repeat-x;
+            background-position: 0 10px; /*共107px， 0=full  10.7=完成90%*/
+        }
+    </style>
+</head>
+<body>
+    <div class="ui-layout-north">
+        <!--顶部按钮-->
+       
+       <div>
+            <img src="../../LimitedSchedule/Shared/Images/home.png" onclick="LimitedSchedule.helper.toSchedule();" style="max-width:30px ;max-height:30px; " /><p>
+                首页</p>
+        </div>
+         <div>
+            <img src="images/save.png" onclick="saveAll();" /><p>保存</p>
+        </div>
+        <div>
+            <img src="images/adjust.png" onclick="LimitedSchedule.helper.toCalendar();" /><p>产能调整</p>
+        </div>
+        <div>
+            <img src="images/setup.png" onclick="LimitedSchedule.helper.toSetup();" /><p>设置</p>
+        </div>
+        
+
+    </div>
+
+    <div class="ui-layout-west">
+
+        <table id="jqGrid"></table>
+        <div id="jqGridPager"></div>
+    </div>
+
+    <div class="ui-layout-center">
+        <!--<div id="example1" style="width: inherit"></div>-->
+        <div id='calendar'></div>
+        <div style="padding-left: 100px">
+            <p style="background-image: url(images/symbol.png); background-repeat: no-repeat">&nbsp; </p>
+            <!--<image href="images/symbol.png"></image>-->
+            <span style="width: 91px">&nbsp;&nbsp;超载资源</span>
+            <span style="width: 200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;正常资源</span>            
+            <span>&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;休息日</span>
+        </div>
+    </div>
+
+    <div id="scheduleDialog" title="产能调整">
+        
+            <div>
+            <label>调整量</label>
+            <input type="text" value="0" id="adjustQty" onchange="adjustQtyChange(this)" onmouseout="adjustQtyChange(this)"  />
+            </div><div>
+            <input type="checkbox" id="rest" onchange="restChange(this);" />
+            休息
+            <span>&nbsp&nbsp&nbsp</span>
+            <input type="checkbox" id="normal" checked="checked" onchange="normalChange(this);" />
+            正常</div>
+
+           
+        
+    </div>
+    <div id="alertWin"></div>
+
+
+
+</body>
+</html>
