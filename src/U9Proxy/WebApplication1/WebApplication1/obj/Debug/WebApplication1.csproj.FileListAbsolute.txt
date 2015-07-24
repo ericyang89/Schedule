@@ -1,0 +1,1094 @@
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UBF.System.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.AopFrame.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Business.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\DotNetOpenAuth.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Sn.SnBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UBFEngineHosting.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.View.Query.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CABP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.SQLBuilder.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Sys.Resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.DBHelper.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\Tools.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UBF.System.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UBF.System.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.AopFrame.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.AopFrame.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Business.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Business.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Sn.SnBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Sn.SnBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UBFEngineHosting.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UBFEngineHosting.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.View.Query.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.View.Query.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CABP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CABP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.SQLBuilder.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.SQLBuilder.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Sys.Resources.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Sys.Resources.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.DBHelper.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.DBHelper.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\en-US\UFSoft.UBF.AopFrame.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\ja-JP\UFSoft.UBF.AopFrame.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\zh-CN\UFSoft.UBF.AopFrame.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\zh-TW\UFSoft.UBF.AopFrame.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\en-US\UFSoft.UBF.Business.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\ja-JP\UFSoft.UBF.Business.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\zh-CN\UFSoft.UBF.Business.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\zh-TW\UFSoft.UBF.Business.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBP.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CP.CPSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.DM.DMBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.Resource.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABIBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBP.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CP.CPSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CP.CPSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.DM.DMBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.DM.DMBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.Resource.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.Resource.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABIBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABIBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\aspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UBF.System.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.AopFrame.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Business.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\DotNetOpenAuth.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Sn.SnBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UBFEngineHosting.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.View.Query.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBP.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CABP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.SQLBuilder.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Sys.Resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.DBHelper.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\Tools.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CP.CPSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.DM.DMBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.Resource.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBE.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABIBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBE.Deploy.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UBF.System.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UBF.System.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.AopFrame.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.AopFrame.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Business.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Business.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Sn.SnBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Sn.SnBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UBFEngineHosting.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UBFEngineHosting.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.View.Query.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.View.Query.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBP.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CABP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CABP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.SQLBuilder.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.SQLBuilder.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Sys.Resources.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Sys.Resources.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.DBHelper.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.DBHelper.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CP.CPSV.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CP.CPSV.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.DM.DMBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.DM.DMBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.Resource.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.Resource.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBE.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Agent.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Agent.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABIBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABIBE.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Deploy.xml
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBE.Deploy.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\en-US\UFSoft.UBF.AopFrame.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\ja-JP\UFSoft.UBF.AopFrame.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\zh-CN\UFSoft.UBF.AopFrame.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\zh-TW\UFSoft.UBF.AopFrame.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\en-US\UFSoft.UBF.Business.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\ja-JP\UFSoft.UBF.Business.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\zh-CN\UFSoft.UBF.Business.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\zh-TW\UFSoft.UBF.Business.resources.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Agent.dll
+C:\Documents and Settings\yangchuan\桌面\ServiceTest\WriteaspxTest\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UBF.System.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.AopFrame.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Business.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\DotNetOpenAuth.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Sn.SnBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UBFEngineHosting.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.View.Query.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBP.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CABP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.SQLBuilder.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Sys.Resources.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.DBHelper.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\Tools.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CP.CPSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.DM.DMBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABIBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UBF.System.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UBF.System.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ISV.MO.MOSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.AopFrame.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.AopFrame.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Business.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Business.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Sn.SnBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Sn.SnBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UBFEngineHosting.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UBFEngineHosting.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.View.Query.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.View.Query.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PP.PPSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanSrv.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBP.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CABP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CABP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.IC.ICSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.SQLBuilder.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.SQLBuilder.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.CompleteBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostSV.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Sys.Resources.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Sys.Resources.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.DBHelper.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.DBHelper.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AB.ABSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMIssueBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CP.CPSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CP.CPSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMPub.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.DM.DMBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.DM.DMBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CASV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.BudgetBuzSysBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Kanban.KanbanBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOCostBP.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.QC.QCSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABISV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABIBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ABI.ABIBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPL.SPLSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\en-US\UFSoft.UBF.AopFrame.resources.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\ja-JP\UFSoft.UBF.AopFrame.resources.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\zh-CN\UFSoft.UBF.AopFrame.resources.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\zh-TW\UFSoft.UBF.AopFrame.resources.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\en-US\UFSoft.UBF.Business.resources.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\ja-JP\UFSoft.UBF.Business.resources.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\zh-CN\UFSoft.UBF.Business.resources.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\zh-TW\UFSoft.UBF.Business.resources.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.HRBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.DataAccess.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.MD.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.Expression.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CABE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPPubBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBP.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMSV.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAIBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransSV.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAISV.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.FIBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AR.ARSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AR.ARBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AR.ARSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBP.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.FI_TBBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBP.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.GL.GLSV.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.GL.GLSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPPubBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBP.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAIBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAIBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Sn.SnBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.GL.GLBE.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAIBP.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CM.CMSV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AR.ARBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBP.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.GL.GLBP.Deploy.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.IA.IASV.Agent.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.HRBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.HRBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.DataAccess.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.DataAccess.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.MD.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.MD.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.Expression.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFSoft.UBF.Util.Expression.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFGBP.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Lot.LotBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CABE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CA.CABE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPPubBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPPubBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MO.MOSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.SCMBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.PubBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PM.PMSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvPlan.InvPlanSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBP.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SFC.SFCBP.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMSV.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMSV.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAIBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAIBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransSV.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransSV.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAISV.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAISV.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PR.PRSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.FIBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.FIBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.ParaConfigSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AR.ARSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AR.ARSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AR.ARBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AR.ARBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AR.ARSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AR.ARSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvDoc.InvDocBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.MFG.MFGSV.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBP.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SM.SMBP.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.FI_TBBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CBO.FI_TBBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AP.APBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBP.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBP.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.GL.GLSV.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.GL.GLSV.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.GL.GLSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.GL.GLSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPPubBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.ATP.ATPPubBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBP.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.InvTrans.InvTransBP.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAIBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAIBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAIBE.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAIBE.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Sn.SnBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Sn.SnBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.GL.GLBE.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.GL.GLBE.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAIBP.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AAI.AAIBP.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CM.CMSV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.CM.CMSV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AR.ARBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.AR.ARBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.SPR.SPRBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.MRP.MRPBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBP.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.PMM.PMMBP.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.GL.GLBP.Deploy.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.GL.GLBP.Deploy.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.IA.IASV.Agent.pdb
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.IA.IASV.Agent.xml
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\zh-CN\UFSoft.UBF.MD.resources.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.PubEventBE.dll
+E:\working\3.0\U9UICode\U9.VOB.PD.MFG.V30\MO\Code\LimitedScheduleUI\U9Proxy\WebApplication1\WebApplication1\bin\UFIDA.U9.Complete.PubEventBE.pdb

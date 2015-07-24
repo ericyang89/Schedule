@@ -1,0 +1,15 @@
+排产前台
+一个文件夹，一个页面
+
+备份日期：2015年6月9日19:44:55
+进度：
+	1、完成排产前后台读写，基本点算法（无重拍）
+	2、完成产能调整，包括前后台逻辑。
+
+排产内容分布(4个部分)
+1、前台代码，本文件夹下的 Schedule、Calendar、Setup和Shared；其中shared为其他3部分提供一些依赖方法
+2、排产代理，本文件夹下的U9Proxy，通过代理方位U9的service
+3、排产服务，V3，对外服务里面ISV，isv/mosv/ossrv.(E:\working\3.0\U9AppCode\U9.VOB.App.ISV.V3.0\MO\Model\MOSV\OSSrv.ubfsvr)
+	code在Model对应的位置。
+4、数据库服务，V3，Be里面，具体ubf mobe model OS （E:\working\3.0\U9AppCode\U9.VOB.App.MFG.V3.0\MO\Model\MFGMO\MOBE\OS）
+	下面的 ScheduleObj、ScheduleCalendar和ScheduleResource(共3个部分)。无code

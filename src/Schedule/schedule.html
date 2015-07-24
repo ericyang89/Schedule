@@ -1,0 +1,120 @@
+﻿<! html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>有限排程</title>
+   
+
+    <script src="../Shared/Libs/jquery.js" type="text/javascript"></script>
+    <link href="../Shared/Libs/jquery-ui/jquery-ui.min.css"
+        rel="stylesheet" type="text/css" />
+    <script src="../Shared/Libs/jquery-ui/jquery-ui.min.js"
+        type="text/javascript"></script>
+    <link href="../Shared/Libs/layout/layout-default.css"      rel="stylesheet" type="text/css" />
+    <script src="../Shared/Libs/layout/jquery.layout.min.js"        type="text/javascript"></script>
+
+    <script src="../Shared/Libs/jqgrid/grid.locale-cn.js"        type="text/javascript"></script>
+    <link href="../Shared/Libs/jqgrid/ui.jqgrid.css"        rel="stylesheet" type="text/css" />
+    <script src="../Shared/Libs/jqgrid/jquery.jqGrid.min.js"        type="text/javascript"></script>
+
+    <script src="../Shared/Libs/handsontable/handsontable.full.js"        type="text/javascript"></script>
+    <link href="../Shared/Libs/handsontable/handsontable.full.css"        rel="stylesheet" type="text/css" />
+
+      <script src="../Shared/Libs/ytLoad/ytLoad.jquery.js" type="text/javascript"></script>
+    <script src="../Shared/Libs/ytLoad/jquery.transit.js" type="text/javascript"></script>
+    <link href="../Shared/Libs/ytLoad/ytLoad.jquery.css" rel="stylesheet" type="text/css" />
+
+
+    <link href="css/drag.css" rel="stylesheet" type="text/css"/> 
+    <script src="javascript/SFun.js" type="text/javascript"></script>
+    <script src="javascript/fun.js" type="text/javascript"></script>
+    <script src="../Shared/JavaScript/public.js" type="text/javascript"></script>
+
+  
+    <script>
+
+        var hot;//handsontable
+        var maxRow = 102;//最大行，防止拖拽填充的时候 自动增加row
+        var gridData=[], dataSource = [],objData=[],//排产对象数据，已排产信息
+        hotHeaders = [], hotColunms = [], hotData = [],//hot Data  表头，表列定义，表数据
+        doneData = [];  //用来备份待排产资源等信息，如果将该对象进行排产后
+        var DayCount = 0, StartDate = "";//格式 “2015-12-12”
+        var lastInsertedScheduleId;
+        var $grid;
+        var nextUrl;
+        
+        LimitedSchedule.helper.checkUserInfo();
+        $(function () {
+            $.ytLoad();
+
+            getData();
+            setLayout();
+
+            //左则grid jggrid
+            $grid = $("#jqGrid");
+            setJqGrid();
+
+
+            //放grid的容器
+            var example1 = document.getElementById('example1');
+            hot = builtHot(example1, hotData, doneData);
+
+            //drag&drop
+            setDraggable();
+            setDroppable(gridData, doneData, hot);
+
+            //计算资源汇总量单元格合并
+            //reCalcUsage(hotData);
+            reMerge(hotData);
+
+        });
+
+
+      
+
+    </script>
+</head>
+<body>
+    <div class="ui-layout-north">
+        <!--顶部按钮-->
+        <div>
+            <img src="../../LimitedSchedule/Shared/Images/home.png" onclick="LimitedSchedule.helper.toSchedule();" /><p>
+                首页</p>
+        </div>
+        <div>
+            <img src="../../LimitedSchedule/Shared/Images/save.gif" onclick="saveAll();" /><p>
+                保存</p>
+        </div>
+        
+        <div>
+            <img src="../../LimitedSchedule/Shared/Images/adjust.png" onclick="LimitedSchedule.helper.toCalendar();" /><p>
+                产能调整</p>
+        </div>
+       <div>
+            <img src="../../LimitedSchedule/Shared/Images/otherDoc.png"  onclick="autoSchedule();"/><p>排产</p>
+        </div>
+        
+        <div>
+            <img src="../../LimitedSchedule/Shared/Images/reschedule.png" onclick="ReSchedule();"  /><p>重排</p>          
+        </div>
+        <div>
+            <img src="../../LimitedSchedule/Shared/Images/refresh.png" onclick="refreshData();"  /><p>同步数据</p>          
+        </div>
+        <div>
+            <img src="../../LimitedSchedule/Shared/Images/setup.png" onclick="LimitedSchedule.helper.toSetup();" /><p>
+                设置</p>
+        </div>
+    </div>
+    <div class="ui-layout-west">
+        <table id="jqGrid">
+        </table>
+        <div id="jqGridPager">
+        </div>
+    </div>
+    <div class="ui-layout-center">
+        <div id="example1" >
+        </div>
+    </div>
+    
+</body>
+</html>

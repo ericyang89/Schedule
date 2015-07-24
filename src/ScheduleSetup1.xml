@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Setup>
+  <LoginInfo>
+    <OrgID>1001411031260003</OrgID>
+    <UserID>1001410230640025</UserID>
+    <UserCode>luo</UserCode>
+    <UserName>luo</UserName>
+    <UserClientIP>127.0.0.1</UserClientIP>
+    <EnterpriseID>888</EnterpriseID>
+    <!--U9系统管理上的企业ID-->
+    <Site></Site>
+    <Culture>zh-CN</Culture>
+	
+  </LoginInfo>
+  <DateInfo>
+    <StartDate></StartDate>
+    <!--当前日期附近-->
+    <DayCount>55</DayCount>
+    <!--小于100-->
+  </DateInfo>
+  <scheduling>
+    <showItems>DocNo,Items</showItems>
+    <defaultOrder>DocNo</defaultOrder>
+  </scheduling>
+  <scheduled>
+    <showItems></showItems>
+  </scheduled>
+      <!--方案配置，不同的方案查询的单据和资源不一样-->
+	  <!--a demo config is needed-->
+  <Scenarios>
+  <Scenario name="A">this is the first scenario </Scenario>
+  <Scenario name="B">this is the second scenario </Scenario>
+  <Scenario name="F">this is the second scenario </Scenario>
+  <Scenario name="C">{"MOCondition":"this is the MOCondition","ResourceCondition":"test"} </Scenario>
+  <Scenario name="ALL">this scenario is including all </Scenario>
+  </Scenarios>
+</Setup>

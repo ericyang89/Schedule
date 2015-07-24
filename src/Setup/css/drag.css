@@ -1,0 +1,92 @@
+﻿body {
+}
+
+h1 {
+    padding: .2em;
+    margin: 0;
+}
+
+#products {
+    float: left;
+    width: 500px;
+    margin-right: 2em;
+}
+
+#cart {
+    float: left;
+}
+     style the list to maximize the droppable hitarea 
+#cart ol {
+        margin: 0;
+        padding: 1em 0 1em 3em;
+}
+
+.ui-jqgrid-btable tbody tr td:nth-child(2) {
+    cursor:move;
+}
+
+.leftTable td, .leftTable th {
+    width:400px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    empty-cells: show;
+    height: 22px;
+    line-height: 23px;
+    outline-width: 0;
+    overflow: hidden;
+    padding: 0 4px;
+    vertical-align: top;
+    white-space: pre-line;
+    border-spacing: 0;
+}
+
+.leftTable thead {
+    background-color:#EEE;
+
+}
+
+.ui-icon {
+    background-image: url("images/ui-icons_222222_256x240.png");
+}
+
+.ui-layout-north div {
+    float:left;
+    width:94px;
+    height:50px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:30px;
+    margin-right:10px;
+    cursor:pointer;
+    
+}
+.ui-layout-north p {
+
+    margin:0;
+}
+
+
+
+
+
+.fa-remove::before, .fa-close::before, .fa-times::before {
+    content: "x";
+    color:#FFF;
+}
+.fa {
+    display: inline-block;    
+    font-family:'MS UI Gothic';
+    font-feature-settings:normal;
+    font-kerning: auto;
+    font-language-override: normal;
+    font-size: inherit;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-style: normal;
+    font-synthesis: weight style;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-rendering: auto;
+}

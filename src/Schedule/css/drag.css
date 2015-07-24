@@ -1,0 +1,67 @@
+﻿body {
+}
+
+h1 {
+    padding: .2em;
+    margin: 0;
+}
+
+.ui-jqgrid-btable tbody tr td:nth-child(2) {
+    cursor:move;
+}
+
+.leftTable td, .leftTable th {
+    width:400px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    empty-cells: show;
+    height: 22px;
+    line-height: 23px;
+    outline-width: 0;
+    overflow: hidden;
+    padding: 0 4px;
+    vertical-align: top;
+    /*white-space: pre-line;*/
+    border-spacing: 0;
+}
+
+.leftTable thead {
+    background-color:#EEE;
+
+}
+
+.ui-icon {
+    background-image: url("images/ui-icons_222222_256x240.png");
+}
+
+.ui-layout-north div {
+    float:left;
+    width:94px;
+    height:50px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:30px;
+    margin-right:10px;
+    cursor:pointer;
+    
+}
+.ui-layout-north p {
+
+    margin:0;
+}
+
+/*工具栏图片显示固定大小显示*/
+.ui-layout-north img
+{
+	max-width:30px;
+	max-height:30px
+	}
+
+/*hot 的样式*/
+#example1{
+	height: inherit; 
+	width: inherit; 
+	overflow: scroll
+}
+

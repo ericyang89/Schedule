@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="../../Shared/Libs/jquery.js" type="text/javascript"></script>   
+     <script src="jquery.transit.js" type="text/javascript"></script>
+    <script src="ytLoad.jquery.js" type="text/javascript"></script>
+    <link href="ytLoad.jquery.css" rel="stylesheet" type="text/css" />
+
+    <script src="../../Shared/JavaScript/public.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $.ytLoad();
+
+//            $.ytLoad({
+//                registerAjaxHandlers: true
+//            });
+
+
+           // alert(11);
+
+        });
+
+        var aaa = function () {
+//            $.ytLoad({
+//                //registerAjaxHandlers: false
+//            });
+           // alert(11);
+            //$.ytLoad('start');
+
+            $.ajax({
+                type: "GET",
+                //url: "../../WebForm1.aspx?Method=GetScheduleObj",
+                url: LimitedSchedule.helper.getServiceAddress("/WebForm1.aspx?Method=GetScheduleObj"),
+                contentType: 'text/json',
+               // async: false, //暂时不用异步的方式
+                success: function (data) {
+                    //U9在Response的出来的字符串后面带一个网页，通过字符串分割的方式去掉
+                    //gridData 
+                    //objData = eval(data.substr(0, data.indexOf("<!DOCTYPE")));
+                    console.log(data.substr(0, data.indexOf("<!DOCTYPE")));
+                   // $.ytLoad('complete');
+                },
+                error: function (request, errorInfor) {
+                    window.console && window.console.log(errorInfor);
+                   // $.ytLoad('error');
+                }
+            });
+
+        };
+    </script>
+</head>
+<body>
+<input type="button" onclick="aaa()" value="cclick"/>
+</body>
+</html>
