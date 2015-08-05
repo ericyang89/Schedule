@@ -1,0 +1,3 @@
+U9每个实体有个sysState的属性，默认是unchanged；
+修改实体的时候会把这个值改为updated或者inserted 或者deleted
+loop 实体的时候 在loop 结束前  把sysState 仍然为 unchanged 的实体的 sysstable 值改为 Unknown
