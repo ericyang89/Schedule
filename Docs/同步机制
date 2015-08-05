@@ -1,3 +1,11 @@
-U9每个实体有个sysState的属性，默认是unchanged；
-修改实体的时候会把这个值改为updated或者inserted 或者deleted
-loop 实体的时候 在loop 结束前  把sysState 仍然为 unchanged 的实体的 sysstable 值改为 Unknown
+同步服务的同步机制
+
+  U9每个实体有个sysState的属性，默认是unchanged；
+  修改实体的时候会把这个值改为updated或者inserted 或者deleted
+  loop 实体的时候 在loop 结束前  把sysState 仍然为 unchanged 的实体的 sysstable 值改为 Unknown
+
+
+
+保存服务的同步机制
+
+  保存的时候，在remark上加一个时间戳；保存之前把【排产结果scheduleResult】表的旧的数据删掉
