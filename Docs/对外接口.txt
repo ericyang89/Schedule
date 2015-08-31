@@ -1,5 +1,19 @@
-�Ų�����ӿڣ�
-1����xmlȡurl�����urlΪ������ajax���������ʱ�򴫹�ȥһ��json��Ȼ���ٰѸ�JSON��������������ͨ�������ݵ��޸ģ���Ӱ������
-2��ÿ���ӿ������ݱ�׼����ʵ����json�ĸ�ʽ��ÿ���ӿڶ��д��봫�صĺ�����
-3���ͻ������Լ���¶rest����Ҳ��������U9�ķ��������롣
+排产对外接口：
+1、从xml取url，如果url为空则不用ajax请求；请求的时候传过去一个json，然后再把该JSON返回来。第三方通过对数据的修改，来影响结果。
+2、每个接口有数据标准，其实就是json的格式；每个接口都有传入传回的函数。
+3、客户可以自己暴露rest服务；也可以添加U9的服务来接入。
+
+具体：
+  1.配置 scheduleSetup.xml interfaces interface节，输入对应的rest服务接口。如果没有接口则一点要为空。
+    目前只有这两个接口，rest服务需要和本应用在一个服务上（目前不知支持跨域）
+    
+  2.OnBeforeSchedule接口
+    触发时机：“排产”的时候触发，如果选择了多个排产对象，则没排完一个掉一次接口
+    入口数据：JSON.stringify({"hotData":hotDataLists,"currentSchedulingObj":gridData})
+    返回数据：gridData
+    
+  3.OnBeforeReschedule接口
+    触发时机：重拍产之前，通过服务修正所有的数据
+    入口数据：JSON.stringify({"hotData":hotDataLists,"doneData":gridDataLists})
+    返回数据：gridDataLists
 
