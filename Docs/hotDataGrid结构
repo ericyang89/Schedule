@@ -1,0 +1,39 @@
+
+编码	中文名称	类型	示例
+Id                                                   	ID	number	Id:1001508130285977,
+DocID                                            	生产订单ID	string	DocID:"1001507160370335",
+Doc                                              	生产订单单号	string	Doc:"MO-2746",
+Operation                                        	工序号	string	Operation:"0010",
+Item                                             	料品编号	string	Item:"sylviacap",
+DeliveryDate                                     	交期	string	DeliveryDate:"2015-09-01",
+IsScheduled                                      	是否已排产	bool	IsScheduled:false,
+MachineReplacementTimeSpan	换机时间（小时为单位，允许小时）	number	MachineReplacementTimeSpan:0,
+ProductionQty                                    	生产量	number	ProductionQty:200,
+MRPableQty                                       	预计可供应量	number	MRPableQty:200,
+RecommendResource	建议资源	number	RecommendResource:0,
+OldStartTime                                     	原始开始时间	string	OldStartTime:"2015-01-01",
+OldEndTime                                       	原始完工时间	string	OldEndTime:"",
+ItemID                                           	料品ID	number	ItemID:0,
+OperationID                                      	工序ID	number	OperationID:0,
+MyScheduleResource 	可用资源（允许多个，是个对象）	Object	MyScheduleResource:
+[{	　	[{
+    ResourceID                                   	资源ID	string	ResourceID:"1001507160370340",
+    ResourceName                                 	资源名称	string	ResourceName:"R1",
+    Account                                      	小时数量（小时为单位，允许小数）	string	Account:17
+}]	　	}]
+
+
+
+
+
+编码	中文名称	类型	示例
+Id	编码	number	Id:0,
+ResourceID	资源编码	string	ResourceID:"1001507160370340",
+ResourceName	资源名称	string	ResourceName:"R1",
+LastOccupiedDate	最后占用时间	string	LastOccupiedDate:"",
+DocName      	单号	string	DocName:"",
+riginalDateTime   	原始时间	string	OriginalDateTime:"
+Day1          	第一天	string	Day1:"0/8",
+ay2               	第二天	string	Day2:"0/8",
+Day3             	……	string	Day3:"0/8",
+Dayn	第n天	string	Dayn:"0/8",
