@@ -1,19 +1,30 @@
-排产对外接口：
-1、从xml取url，如果url为空则不用ajax请求；请求的时候传过去一个json，然后再把该JSON返回来。第三方通过对数据的修改，来影响结果。
-2、每个接口有数据标准，其实就是json的格式；每个接口都有传入传回的函数。
-3、客户可以自己暴露rest服务；也可以添加U9的服务来接入。
+排产对外接口机制：
+1、从xml取url，如果url为空则不用ajax请求；请求的时候传过去一个json，然后再返回一个JSON。第三方通过对数据的修改，来影响结果。
+2、每个接口有数据标准，其实就是json的格式；每个接口都有传入传回的json数据。
+3、客户可以自己暴露rest服务；也可以添加U9的服务来接入。如果使用U9的服务需要修改代理。
 
 具体：
-  1.配置 scheduleSetup.xml interfaces interface节，输入对应的rest服务接口。如果没有接口则一点要为空。
+  1.配置
+    scheduleSetup.xml interfaces interface节，输入对应的rest服务接口。如果没有接口则一定要为空。
     目前只有这两个接口，rest服务需要和本应用在一个服务上（目前不知支持跨域）
     
   2.OnBeforeSchedule接口
-    触发时机：“排产”的时候触发，如果选择了多个排产对象，则没排完一个掉一次接口
-    入口数据：JSON.stringify({"hotData":hotDataLists,"currentSchedulingObj":gridData})
+    接口用途：排产的时候，根据当前的已排产情况，给每个排产对象指定资源和换机时间
+    触发时机：“排产”的时候触发，如果选择了多个排产对象，则每排完一个调一次接口
+    入口数据：JSON.stringify({"hotData":[hotData],"currentSchedulingObj":gridData})
     返回数据：gridData
     
   3.OnBeforeReschedule接口
+    接口用途：重拍的时候，更新排产对象的资源占用量（小时为单位，可为小时）
     触发时机：重拍产之前，通过服务修正所有的数据
-    入口数据：JSON.stringify({"hotData":hotDataLists,"doneData":gridDataLists})
+    入口数据：JSON.stringify({"hotData":[hotData],"doneData":[gridData]})
     返回数据：gridDataLists
+    
+  4.解释说明
+    hotData/gridData 是json对象其结构见Excel
+    [hotData]表示以多个或者一个hotData构成的对象数组，[gridData]同理
+    重排产之前会先同步U9数据，OnBeforeReschedule发生的时机在和U9同步之后，重排产算法执行之前
+    JSON.stringify()是把json转为string
+    {"hotData":[hotData],"doneData":[gridData]}是一个新的json对象
+    
 
